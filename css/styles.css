@@ -5,6 +5,9 @@ body{
   background:#6a9c77;
 
 }
+#def{
+  padding: 10px 10px 10px 10px;
+}
 #subtitle{
   font-size:25px
 }

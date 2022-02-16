@@ -17,12 +17,12 @@ body{
 .button-9 {
   appearance: button;
   backface-visibility: hidden;
+  color: ##000000;
   background-color: #41664b;
   border-radius: 6px;
   border-width: 0;
   box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset,rgba(50, 50, 93, .1) 0 2px 5px 0,rgba(0, 0, 0, .07) 0 1px 1px 0;
   box-sizing: border-box;
-  color: #0000;
   cursor: pointer;
   font-family: -apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Ubuntu,sans-serif;
   font-size: 100%;
@@ -40,7 +40,7 @@ body{
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  width: 100%;
+  width: 50%;
 }
 
 .button-9:disabled {

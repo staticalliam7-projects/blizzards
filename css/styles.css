@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+.animate__fadeIn{
+  --animate-delay: 1s;
+}
 body{
   font-family: 'Noto Sans', sans-serif;
   text-align:center;

@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 body{
   background:#6a9c77;
+  font-family: 'Noto Sans', sans-serif;
 }
 #title #subtitle{
   text-align:center;
